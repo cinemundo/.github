@@ -4,6 +4,6 @@
 
 <div align="center">
 
-![Logo]('./assets/cinemundo.png)
+![Logo]('./assets/cinemundo.png')
 
 <div>

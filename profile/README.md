@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Logo]("./profile/assets/cinemundo.png")
+![Logo](./assets/cinemundo.png)
 
 <div>
 
